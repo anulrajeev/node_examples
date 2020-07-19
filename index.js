@@ -10,7 +10,7 @@ function rectangle(a,b)
 {
    if(a<=0||b<=0)
       console.log("The dimensions have to be a positive number");
-
+      
     else
           {
             console.log(rect.area(a,b));
